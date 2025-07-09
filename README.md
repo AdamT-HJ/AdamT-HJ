@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Alt text for test1.gif](images/test1.gif)
+![Alt text for test1.gif](images/test2.gif)
 
 <!--
 **AdamT-HJ/AdamT-HJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
