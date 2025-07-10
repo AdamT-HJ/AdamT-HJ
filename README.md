@@ -9,7 +9,7 @@ Most recently, projects I've been working on include:
 3. An AI powered chatbot to provide advice on car insurance policies for users. - Gemini LLM API
 4. A mock Service Station locator app, with service filtering and map integration.
 
-| | |
+| | | |
 |---|---|---|
 | ![Alt text 1](images/mission0.gif) | ![Alt text 2](images/test4.gif) | ![Alt text 3](images/test4.gif) 
 
