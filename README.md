@@ -11,7 +11,7 @@ Most recently, projects I've been working on include:
 
 | | |
 |---|---|
-| ![Alt text 1](images/test4.gif) | ![Alt text 2](images/test4.gif) |
+| ![Alt text 1](images/mission0.gif) | ![Alt text 2](images/test4.gif) |
 | ![Alt text 3](images/test4.gif) | ![Alt text 4](images/test4.gif) |
 
 🔭 I'm currently working on a 'learning-app' to track and catalogue my learning journey, or to help anyone learn something new. 
