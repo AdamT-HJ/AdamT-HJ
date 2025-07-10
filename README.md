@@ -10,9 +10,9 @@ Most recently, projects I've been working on include:
 4. A mock Service Station locator app, with service filtering and map integration.
 
 | | |
-|---|---|
-| ![Alt text 1](images/mission0.gif) | ![Alt text 2](images/test4.gif) |
-| ![Alt text 3](images/test4.gif) | ![Alt text 4](images/test4.gif) |
+|---|---|---|
+| ![Alt text 1](images/mission0.gif) | ![Alt text 2](images/test4.gif) | ![Alt text 3](images/test4.gif) 
+
 
 🔭 I'm currently working on a 'learning-app' to track and catalogue my learning journey, or to help anyone learn something new. 
 
