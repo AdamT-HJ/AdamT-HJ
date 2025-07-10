@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Adam Tung, a full-stack developer student currently studying with [Mission Ready HQ](https://www.missionreadyhq.com/)
+I'm Adam, a full-stack developer student currently studying with [Mission Ready HQ](https://www.missionreadyhq.com/)
 
 Over the last 6 months I've been honing my skills working on frontend, backend, and full-stack projects with a foundation in JavaScript, React, and Node.JS, and a theme of AI/LLM integration.
 
@@ -20,7 +20,7 @@ Most recently, projects I've been working on include:
 
 🔭 I'm currently working on a 'learning-app' to track and catalogue my learning journey, or to help anyone learn something new. 
 
-I'm located in Dunedin, New Zealand. You can find me on:
+I'm located in New Zealand. You can find me on:
 - [LinkedIn](https://www.linkedin.com/in/adam-tung-95b25650/)
 
 
