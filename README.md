@@ -11,15 +11,11 @@ Most recently, projects I've been working on include:
 
 
 <div align="left">
-  <img src="images/mission0.gif" alt="Description of test1.gif" width="300">
-  <img src="images/mission0.gif" alt="Description of test2.gif" width="300">
-  <img src="images/mission0.gif" alt="Description of test2.gif" width="300">
+  <img src="images/mission0.gif" alt="Description of test1.gif" width="500" height="300">
+  <img src="images/mission0.gif" alt="Description of test2.gif" width="500" height="300">
+  <img src="images/mission0.gif" alt="Description of test2.gif" width="500" height="300">
 </div>
-<div align="left">
-  <img src="images/mission0.gif" alt="Description of test3.gif" width="300">
-  <img src="images/mission0.gif" alt="Description of test4.gif" width="300">
-  <img src="images/mission0.gif" alt="Description of test2.gif" width="300">
-</div>
+
 
 
 🔭 I'm currently working on a 'learning-app' to track and catalogue my learning journey, or to help anyone learn something new. 
