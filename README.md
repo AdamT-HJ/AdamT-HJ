@@ -11,7 +11,7 @@ Most recently, projects I've been working on include:
 
 
 <div align="left">
-  <img src="images/mission0.gif" alt="RWD.gif" width="500" height="300">
+  <img src="images/mission0.gif" alt="RWD.gif" width="450" height="250">
   <img src="images/mission3.gif" alt="Interview chatbot.gif" width="500" height="300">
   <img src="images/mission5.gif" alt="Station locator.gif" width="500" height="300">
   <img src="images/missionx.gif" alt="student dashboard.gif" width="500" height="300">
