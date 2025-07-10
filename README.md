@@ -9,17 +9,16 @@ Most recently, projects I've been working on include:
 3. An AI powered chatbot to provide advice on car insurance policies for users. - Gemini LLM API
 4. A mock Service Station locator app, with service filtering and map integration.
 
-| | | |
-|---|---|---|
-| ![Alt text 1](images/mission0.gif) | ![Alt text 2](images/test4.gif) | ![Alt text 3](images/test4.gif) 
 
 <div align="left">
   <img src="images/mission0.gif" alt="Description of test1.gif" width="300">
+  <img src="images/mission0.gif" alt="Description of test2.gif" width="300">
   <img src="images/mission0.gif" alt="Description of test2.gif" width="300">
 </div>
 <div align="left">
   <img src="images/mission0.gif" alt="Description of test3.gif" width="300">
   <img src="images/mission0.gif" alt="Description of test4.gif" width="300">
+  <img src="images/mission0.gif" alt="Description of test2.gif" width="300">
 </div>
 
 
