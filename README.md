@@ -13,6 +13,15 @@ Most recently, projects I've been working on include:
 |---|---|---|
 | ![Alt text 1](images/mission0.gif) | ![Alt text 2](images/test4.gif) | ![Alt text 3](images/test4.gif) 
 
+<div align="left">
+  <img src="images/mission0.gif" alt="Description of test1.gif" width="300">
+  <img src="images/mission0.gif" alt="Description of test2.gif" width="300">
+</div>
+<div align="left">
+  <img src="images/mission0.gif" alt="Description of test3.gif" width="300">
+  <img src="images/mission0.gif" alt="Description of test4.gif" width="300">
+</div>
+
 
 🔭 I'm currently working on a 'learning-app' to track and catalogue my learning journey, or to help anyone learn something new. 
 
@@ -20,13 +29,7 @@ I'm located in Dunedin, New Zealand. You can find me on:
 - [LinkedIn](https://www.linkedin.com/in/adam-tung-95b25650/)
 
 
-![Alt text for test1.gif](images/test2.gif)
 
-![Alt text for test1.gif](images/test3.gif)
-
-![Alt text for test1.gif](images/test4.gif)
-
-![Alt text for test1.gif](images/test1.gif)
 
 <!--
 **AdamT-HJ/AdamT-HJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
