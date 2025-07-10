@@ -11,9 +11,11 @@ Most recently, projects I've been working on include:
 
 
 <div align="left">
-  <img src="images/mission0.gif" alt="Description of test1.gif" width="500" height="300">
-  <img src="images/mission0.gif" alt="Description of test2.gif" width="500" height="300">
-  <img src="images/mission0.gif" alt="Description of test2.gif" width="500" height="300">
+  <img src="images/mission0.gif" alt="RWD.gif" width="500" height="300">
+  <img src="images/mission3.gif" alt="Interview chatbot.gif" width="500" height="300">
+  <img src="images/mission5.gif" alt="Station locator.gif" width="500" height="300">
+  <img src="images/missionx.gif" alt="student dashboard.gif" width="500" height="300">
+  <img src="images/mission4.gif" alt="Insurance chatbot.gif" width="500" height="300">
 </div>
 
 
