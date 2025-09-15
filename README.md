@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Adam, a full-stack developer student currently studying with [Mission Ready HQ](https://www.missionreadyhq.com/)
 
-Over the last 6 months I've been honing my skills working on frontend, backend, and full-stack projects with a foundation in JavaScript, React, and Node.JS, and a theme of AI/LLM integration.
+Over the last 9 months I've been honing my skills working on frontend, backend, and full-stack projects with a foundation in JavaScript, React, and Node.JS, and a theme of AI/LLM integration.
 
 Most recently, projects I've been working on include:
 1. A cloud-based app. to recognise and categorise motor vehicles - MS Azure, Azure Custom Vision
